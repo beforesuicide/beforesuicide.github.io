@@ -1,29 +1,14 @@
-## Welcome to GitHub Pages
+## Welcome
 
-You can use the [editor on GitHub](https://github.com/beforesuicide/beforesuicide.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+Having hard times is fairly natural. We should not think about suicide, this is an ugly escape. Having thought of that and being serious about it, we humans are brothers and sisters ! And we are here to stand by each other.
+Don't be shy ! Contact me and I will help.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### Background
 
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+I heard recently about a famous actor who committed suicide. And I loved the guy, he was kind in his roles (and probably in real life). But why ? Why didn't he talk to me ? I think I could had helped him. Sure I could. Sure you could too.
 
 ```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
+It's 
 ```
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
